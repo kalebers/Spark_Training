@@ -1,0 +1,5 @@
+1,2,3,4,5,6-hexachlorocyclohexane peso: 0	DataAnalysisWritable{cost=759.0}
+1,2,3,4,5,6-hexachlorocyclohexane peso: 1	DataAnalysisWritable{cost=442.0}
+1,2,3,4,5,6-hexachlorocyclohexane peso: 100	DataAnalysisWritable{cost=17500.0}
+1,2,3,4,5,6-hexachlorocyclohexane peso: 10000	DataAnalysisWritable{cost=105506.0}
+1,2,3,4,5,6-hexachlorocyclohexane peso: 101	DataAnalysisWritable{cost=8723.0}

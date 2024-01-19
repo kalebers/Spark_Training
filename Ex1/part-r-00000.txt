@@ -1,0 +1,5 @@
+ALL COMMODITIES	70
+Abaca fibre, processed but not spun, tow, noils, wast	9
+Abaca fibre, raw	7
+Abrasive powder or grain on a base of other material	64
+Abrasive powder, grain on paper or paperboard support	62

@@ -1,0 +1,5 @@
+Brazil:Abaca fibre, processed but not spun, tow, noils, wast	1207.0
+Brazil:Abaca fibre, raw	1440240.9
+Brazil:Abrasive powder or grain on a base of other material	1200772.5
+Brazil:Abrasive powder, grain on paper or paperboard support	1877060.0
+Brazil:Abrasive powderor grain on woven textile support	1141690.1

@@ -1,0 +1,5 @@
+Abrasive powder or grain on a base of other material	DataAnalysisWritable{quantity=1745570.0}
+Abrasive powder, grain on paper or paperboard support	DataAnalysisWritable{quantity=2527130.0}
+Abrasive powderor grain on woven textile support	DataAnalysisWritable{quantity=2052437.0}
+Acid and mordant dyes and preparations based thereon	DataAnalysisWritable{quantity=5825022.0}
+Acrylic & vinyl polymer based paint, varnish, in wate	DataAnalysisWritable{quantity=2248366.0}

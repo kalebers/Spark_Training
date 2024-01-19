@@ -1,0 +1,5 @@
+Export:1988 Quantidade = 	12510
+Export:1989 Quantidade = 	26166
+Export:1990 Quantidade = 	29170
+Export:1991 Quantidade = 	32847
+Export:1992 Quantidade = 	45810

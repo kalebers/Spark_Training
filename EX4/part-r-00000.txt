@@ -1,0 +1,5 @@
+1988:1,2,3,4,5,6-hexachlorocyclohexane	28.0
+1988:1,2-dichloroethane(ethylene dichloride)	4773580.0
+1988:1,2-dichloropropane and dichlorobutanes	600.0
+1988:1-chloro-2,3-epoxypropane(epichlorohy-drin)	576127.0
+1988:1-cyanoguanidine (dicyandiamide)	268370.0
